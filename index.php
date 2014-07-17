@@ -30,5 +30,6 @@ function checkDomain($domain, $server) {
 
 
 if (checkDomain("dmitrio.ru", "whois.ripn.net")) print "Свободен нахуй"; else print "Занят блять";
+echo 'Test';
 
 ?>
